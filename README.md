@@ -1,2 +1,2 @@
 # Valyrian
-My financial analycial toolbox
+My analycial toolbox
